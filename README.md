@@ -9,8 +9,8 @@ Warning : All the Files for ref-reslover should be placed under the same folder/
 3.pyjn.minjson:input param (json schema dict)
 
 #Data Returns in JSON format:
-Example : 
-import pyjn
-pyjn=pyjn()
-json_pathtest='C:/Users/Entity.json'
-print(pyjn.refsolver(json_pathtest))
+#Example : 
+>>import pyjn
+>>pyjn=pyjn()
+>>json_pathtest='C:/Users/Entity.json'
+>>print(pyjn.refsolver(json_pathtest))
